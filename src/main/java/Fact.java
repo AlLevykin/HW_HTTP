@@ -1,5 +1,3 @@
-package netology;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Fact {
